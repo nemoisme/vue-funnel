@@ -2,7 +2,7 @@
   "name": "vue-funnel",
   "version": "1.0.0",
   "private": false,
-  "description": "a lib about table base on element-ui",
+  "description": "a lib about funnel base on vue",
   "main": "lib/vue-funnel.js",
   "license": "MIT",
   "author": "nemoisme<nemo_ambitioner@163.com>",
