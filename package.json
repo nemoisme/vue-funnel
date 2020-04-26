@@ -1,6 +1,6 @@
 {
   "name": "vue-funnel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "a lib about funnel base on vue",
   "main": "lib/vue-funnel.js",
