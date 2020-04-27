@@ -20,6 +20,12 @@
   - 本组件不依赖任何第三方 _ui组件库_ ,纯粹的支持所有的vue项目工程。
   - 对插槽内容做了加工处理,灵活程度较高
 
+### 安装
+
+```sh
+yarn add vue-funnel or npm i vue-funnel
+```
+
 [⬆ Back to Top](#table-of-contents)
 
 ### demo1
